@@ -11,7 +11,7 @@ https://github.com/aquarius1905/shareapp-frontend
 
 ## 機能一覧
 
--   ユーザー認証（Firebase Authentication）
+-   ユーザー認証（JWT）
 -   投稿の一覧表示
 -   投稿の追加
 -   投稿の削除
@@ -28,8 +28,8 @@ https://github.com/aquarius1905/shareapp-frontend
 
 ## テーブル設計
 
-![tbl-image](/public/images/table.png)
+![tbl-image](/public/imgs/table.png)
 
 ## ER 図
 
-![erd-image](/public/images/erd.png)
+![erd-image](/public/imgs/erd.png)
